@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BloodAnimations_Title>Blood Animations</BloodAnimations_Title>
+	<BloodAnimations_Warning>*Des nombres élevés peuvent avoir un impact sur les performances</BloodAnimations_Warning>
+	<BloodAnimations_BloodMultiplier>Quantité de sang/débris (particules volantes issues de dommages directs)</BloodAnimations_BloodMultiplier>
+	<BloodAnimations_BleedRate>Quantité de particules de saignement (saignement animé basé sur le taux de saignement de l'acteur)</BloodAnimations_BleedRate>
+	<BloodAnimations_BloodTime>Temps avant que les particules ne s'atténuent</BloodAnimations_BloodTime>
+	<BloodAnimations_FilthMultiplier>Saleté laissée par les particules (pourcentage de particules qui laissent de la saleté de sang/débris nécessitant que les colons nettoient)</BloodAnimations_FilthMultiplier>
+	<BloodAnimations_BulletCasingToggle>Activer les douilles (Animation d'éjection des étuis lors du tir des armes à feu)</BloodAnimations_BulletCasingToggle>
+	<BloodAnimations_BulletCasingFilthToggle>Activer la saleté laissée par les balles (Chance pour les tirs d'armes à feu de laisser de la saleté d'étui de balle nécessitant que les colons nettoient)</BloodAnimations_BulletCasingFilthToggle>
+	<BloodAnimations_ResetAll>Réinitialiser tout</BloodAnimations_ResetAll>
+</LanguageData>
